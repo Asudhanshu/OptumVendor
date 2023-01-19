@@ -1,0 +1,16 @@
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.exe
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.deps.json
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.runtimeconfig.json
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.runtimeconfig.dev.json
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.dll
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\ref\VendorMachine.dll
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\bin\Debug\net5.0\VendorMachine.pdb
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.csproj.AssemblyReference.cache
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.AssemblyInfoInputs.cache
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.AssemblyInfo.cs
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.dll
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\ref\VendorMachine.dll
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.pdb
+C:\Users\sudagraw1\Desktop\VendorMachine\VendorMachine\obj\Debug\net5.0\VendorMachine.genruntimeconfig.cache
